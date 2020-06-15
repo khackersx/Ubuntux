@@ -1,6 +1,6 @@
 # Ubuntux
 ## About The Tool :-
-##### This is a simple shell script which will install all the basic packages used in a terminal. 
+##### This is a python based script for the installation of Ubuntu OS in Termux. 
 
 ## Installation and Usage guide :
 ```
