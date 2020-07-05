@@ -19,16 +19,16 @@
  $ cd Ubuntux 
 ```
 ```
- $ python Ubuntux.py
+ $ python ubuntux.py
 ```
 ```
- Then type 1 and Enter, It will require less than 30mb.
+ Then type 1 and Enter. It will require less than 30mb to install ubuntu os in Termux.
 ```
  ### Subscribe our YouTube Channel :
- https://m.youtube.com/channel/UC4-gnw3K7posKdHcrknCllg
+ https://m.youtube.com/c/khackersx
 
  ### Check out our Instagram page :
- https://instagram.com/khackersx 
+ https://instagram.com/techiekartik
 
  ### Telegram Channel : 
  https://t.me/khackersx 
@@ -37,6 +37,6 @@
  https://t.me/khacksbot 
 
  ### Github :
- https://github.com/khackersx 
+ https://github.com/techiekartik
 
  ## Thanks for using our tool. 
