@@ -28,7 +28,7 @@
  https://m.youtube.com/c/khackersx
 
  ### Check out our Instagram page :
- https://instagram.com/techiekartik
+ https://instagram.com/khackersx
 
  ### Telegram Channel : 
  https://t.me/khackersx 
