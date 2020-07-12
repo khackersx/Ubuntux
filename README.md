@@ -13,7 +13,7 @@
  $ apt install git python -y
 ```
 ```
- $ git clone https://github.com/khackersx/Ubuntux.git
+ $ git clone https://github.com/techiekartik/Ubuntux.git
 ```
 ```
  $ cd Ubuntux 
