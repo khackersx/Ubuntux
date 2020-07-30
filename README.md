@@ -25,7 +25,7 @@
  Then type 1 and Enter. It will require less than 30mb to install ubuntu os in Termux.
 ```
 ## Join Us :
-[![Github](https://img.shields.io/badge/Github-Kartik-Singh-green?style=for-the-badge&logo=github)](https://github.com/techiekartik)
+[![Github](https://img.shields.io/badge/Github-Kartik--Singh-green?style=for-the-badge&logo=github)](https://github.com/techiekartik)
 
 [![Instagram](https://img.shields.io/badge/Instagram-%40khackersx-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/khackersx)
 
