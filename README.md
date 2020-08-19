@@ -29,7 +29,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%40khackersx-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/khackersx)
 
-[![Telegram](https://img.shields.io/badge/Chat-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/TechieKartik)
+[![Telegram](https://img.shields.io/badge/Chat-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/ItzJokerx)
 
 [![Telegram](https://img.shields.io/badge/Join-Channel-blue?style=for-the-badge&logo=telegram)](https://t.me/khackersx)
 
