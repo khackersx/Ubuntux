@@ -27,4 +27,4 @@
 ## Join Us :
 [![Github](https://img.shields.io/badge/Github-Follow-green?style=for-the-badge&logo=github)](https://github.com/geekykartik)
 
-[![Telegram](https://img.shields.io/badge/Visit-Bot-blue?style=for-the-badge&logo=telegram)](https://telegram.me/khacksbot)
+[![Telegram](https://img.shields.io/badge/Visit-Bot-blue?style=for-the-badge&logo=telegram)](https://telegram.me/KartikRobot)
