@@ -22,7 +22,7 @@ print (R+"""
      _  _ ___  _  _ _  _ ___ _  _ _  _
      |  | |__] |  | |\ |  |  |  |  \/
      |__| |__] |__| | \|  |  |__| _/\_
-        """+G+"""   Author: @geekykartik """)
+        """+G+""" Author: @kartiksecurity """)
 time.sleep(2)
 print("  ")
 print(" \033[0;32m1. Install Ubuntu ")
